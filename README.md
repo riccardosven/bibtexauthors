@@ -1,4 +1,4 @@
-# bibtex-authors
+# bibtexauthors
 A python script to format author lists in bibtex
 
 Formats an author line according to the following rules:
