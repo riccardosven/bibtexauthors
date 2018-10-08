@@ -1,3 +1,5 @@
+#!/bin/python
+
 import unittest
 import filecmp
 
